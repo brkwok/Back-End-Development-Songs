@@ -13,6 +13,7 @@ Flask-CORS
 # Runtime dependencies
 gunicorn==20.1.0
 honcho==1.1.0
+pymongo
 
 # Code quality
 pylint==2.14.0
